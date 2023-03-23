@@ -1,0 +1,1 @@
+# automacao-cypress-bs2
